@@ -1,0 +1,3 @@
+[submodule "pirate-battles-shared"]
+	path = pirate-battles-shared
+	url = https://github.com/ageddesi/pirate-battles-shared
